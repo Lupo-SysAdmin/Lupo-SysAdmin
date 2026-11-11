@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024" role="img" aria-labelledby="title desc">
+<title id="title">Jan Herrera — JH</title><desc id="desc">Geometric JH monogram in ivory and turquoise on midnight blue.</desc>
+<rect width="1024" height="1024" fill="#0B1724"/>
+<circle cx="512" cy="512" r="410" fill="none" stroke="#233B4B" stroke-width="3"/>
+<path d="M292 309H494V584Q494 725 358 725Q224 725 224 596V565H310V596Q310 641 358 641Q406 641 406 584V393H292Z" fill="#F3F5F2"/>
+<path d="M552 309H640V469H726V309H814V725H726V555H640V725H552Z" fill="#39D3C5"/>
+<path d="M288 806H424" stroke="#39D3C5" stroke-width="10"/>
+<path d="M448 806H736" stroke="#233B4B" stroke-width="10"/>
+</svg>
