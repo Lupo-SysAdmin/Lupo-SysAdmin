@@ -1,4 +1,4 @@
-![Jan Herrera — Linux Software Developer](assets/jh-linkedin-banner.png)
+![Jan Herrera — Linux Software Developer & SysAdmin](assets/jh-linkedin-banner.png)
 
 [LinkedIn](https://www.linkedin.com/in/janherreraa/) · [Repositories](https://github.com/Lupo-SysAdmin?tab=repositories)
 

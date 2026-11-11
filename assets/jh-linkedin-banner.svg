@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1584" height="396" viewBox="0 0 1584 396" role="img" aria-labelledby="title desc">
-<title id="title">Jan Herrera — Linux Software Developer</title><desc id="desc">Linux software development, Python, Qt/QML, Debian packaging and open-source security tools. GitHub: Lupo-SysAdmin.</desc>
+<title id="title">Jan Herrera — Linux Software Developer &amp; SysAdmin</title><desc id="desc">Linux systems and server administration, software development, Python, Qt/QML, Debian packaging and open-source security tools. GitHub: Lupo-SysAdmin.</desc>
 <rect width="1584" height="396" fill="#0B1724"/>
 <path d="M0 338H300L410 228" fill="none" stroke="#172E3E" stroke-width="2"/>
 <path d="M0 300H264L342 222V0" fill="none" stroke="#172E3E" stroke-width="2"/>
@@ -10,7 +10,7 @@
 <path d="M426 84H486" stroke="#39D3C5" stroke-width="5"/>
 <g font-family="DejaVu Sans, sans-serif">
 <text x="424" y="155" font-size="60" font-weight="700" letter-spacing="1" fill="#F3F5F2">JAN HERRERA</text>
-<text x="427" y="205" font-size="28" fill="#39D3C5">Linux Software Developer</text>
+<text x="427" y="205" font-size="28" fill="#39D3C5">Linux Software Developer &amp; SysAdmin</text>
 <text x="427" y="253" font-size="23" fill="#D2DCE2">Python · Qt/QML · Debian Packaging</text>
 <text x="427" y="298" font-size="21" fill="#A7BAC8">Open-Source Security Tools</text>
 <text x="427" y="347" font-size="19" fill="#A7BAC8">github.com/Lupo-SysAdmin</text>
