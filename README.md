@@ -18,4 +18,12 @@ Original Autopsy GUI, Snort, USBGuard, and other upstream components retain thei
 
 La interfaz original de Autopsy, Snort, USBGuard y los demás componentes conservan su autoría y licencias. El alcance de validación y las instrucciones de instalación se documentan en cada repositorio.
 
+### Support my work / Apoya mi trabajo
+
+If my tools are useful to you, you can support their development with a voluntary contribution. Thank you!
+
+Si mis herramientas te resultan útiles, puedes apoyar su desarrollo con un aporte voluntario. ¡Gracias!
+
+[![Support via PayPal / Apoyar con PayPal](https://img.shields.io/badge/PayPal-Support%20%2F%20Apoyar-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.me/ascaniojan)
+
 <!-- Personal visual identity source: assets/*.svg. PNG exports are used for consistent rendering. -->
