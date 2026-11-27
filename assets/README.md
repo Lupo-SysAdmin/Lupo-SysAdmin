@@ -1,13 +1,14 @@
 # Jan Herrera / Lupo-SysAdmin
 
-Personal visual identity / Identidad visual personal.
+[![Español](https://img.shields.io/badge/Language-Espa%C3%B1ol-39D3C5?style=for-the-badge)](README.es.md)
 
-- `jh-avatar.svg`: vector monogram / monograma vectorial, 1024 × 1024.
-- `jh-linkedin-banner.svg`: editable banner / portada editable, 1584 × 396.
-- PNG files: upload-ready exports / exportaciones para subir a plataformas.
-- Colors / Colores: `#0B1724`, `#39D3C5`, `#F3F5F2`.
-- Banner font / Fuente de portada: DejaVu Sans.
+Personal visual identity.
+
+- `jh-avatar.svg`: vector monogram, 1024 × 1024.
+- `jh-linkedin-banner.svg`: editable banner, 1584 × 396.
+- PNG files: upload-ready exports.
+- Colors: `#0B1724`, `#39D3C5`, `#F3F5F2`.
+- Banner font: DejaVu Sans.
+- Banner education line: Master's Degree in Digital Marketing and Bachelor's Degree in International Trade.
 
 These assets identify Jan Herrera. Their publication does not grant permission to impersonate him or imply endorsement.
-
-Estos recursos identifican a Jan Herrera. Su publicación no autoriza la suplantación de identidad ni implica respaldo a terceros.
